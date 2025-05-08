@@ -1,0 +1,22 @@
+{
+  "name": "overcomplicated-even-odd",
+  "version": "1.0.4",
+  "description": "Is the string is or odd? Let's find out!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://thaogbrando@github.com/thaogbrando/overcomplicated-even-odd.git"
+  },
+  "keywords": [
+    "oeo"
+  ],
+  "author": "ThaOgBrando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaogbrando/overcomplicated-even-odd/issues"
+  },
+  "homepage": "https://github.com/thaogbrando/overcomplicated-even-odd#readme"
+}
